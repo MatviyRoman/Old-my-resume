@@ -1,0 +1,20 @@
+header {
+	margin-top: 50px;
+}
+
+header .aboutMe {
+	margin-left: 30px;
+}
+
+header .job {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.content {
+	margin-top: 20px;
+}
+
+.content .own {
+	margin-bottom: 15px;
+}

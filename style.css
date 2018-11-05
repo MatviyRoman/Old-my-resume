@@ -2,6 +2,11 @@ header {
 	margin-top: 50px;
 }
 
+header .photo img {
+	/*margin: 10px;*/
+	box-shadow: 10 10 10px black;
+}
+
 header .aboutMe {
 	margin-left: 30px;
 }

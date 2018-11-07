@@ -16,6 +16,15 @@ header .job {
 	margin-bottom: 20px;
 }
 
+header .phoneHide {
+	cursor: pointer;
+}
+
+header .phoneShow {
+	display: none;
+	cursor: pointer;
+}
+
 .content {
 	margin-top: 20px;
 }
